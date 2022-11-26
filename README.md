@@ -1,4 +1,4 @@
-# Projeto Final Embarcado
+# Projeto Final de Sistemas Embarcados
 
 Projeto Final da disciplina de Projeto de Sistemas Embarcados pela Universidade Federal de Santa Maria.
 
